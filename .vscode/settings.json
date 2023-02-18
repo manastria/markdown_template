@@ -1,0 +1,12 @@
+{
+    "markdownlint.config": {
+        "MD033": false
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/.obsidian": true,
+        "**/.obsidian.mobile": true
+    },
+    "markdownKbd.replaceKeyNamesWithIcons": false
+}
